@@ -49,7 +49,3 @@ Implement cloud support to handle larger datasets.
 Contributing
 Feel free to open issues or contribute by submitting pull requests. Ensure that any changes are properly documented.
 
-License
-This project is licensed under the MIT License - see the LICENSE file for details.
-
-This README.md provides a structured overview, making it easier for others to understand the purpose and functionality of your resume bot project. If you need further adjustments or detailed explanations on specific parts of the code, let me know! ​
